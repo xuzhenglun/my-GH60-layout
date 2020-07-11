@@ -1,7 +1,7 @@
 
 ## config and compile
 ```
- https://kbfirmware.com/
+https://config.qmk.fm
 ```
 
 ## flash
